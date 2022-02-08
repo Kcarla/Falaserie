@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login2</string>
+    <string name="e_mail">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="textCadastrar">Não possui cadastro? Inscreva-se aqui.</string>
+    <string name="title_cadastro">Cadastra-se</string>
+    <string name="n_name">Nome Completo</string>
+    <string name="e_email"></string>
+    <string name="c_cadastar">Cadastrar</string>
+
+</resources>
